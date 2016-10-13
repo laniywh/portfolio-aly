@@ -1,2 +1,2 @@
 # portfolio-aly
-A single page portfolio website.
+Template of a portfolio website.
