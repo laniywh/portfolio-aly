@@ -81,7 +81,7 @@ p {
 
 /* ==== HEADER ==== */
 header {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), linear-gradient(rgba(118, 49, 63, 0.8), rgba(118, 49, 63, 0.8)), #F53460 url("/assets/img/bg-header.jpg") no-repeat center;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), linear-gradient(rgba(118, 49, 63, 0.8), rgba(118, 49, 63, 0.8)), #F53460 url("../img/bg-header.jpg") no-repeat center;
   background-size: cover;
   -webkit-clip-path: polygon(0 0, 1500px 0, 1500px 800px, 0 500px);
   clip-path: polygon(0 0, 1500px 0, 1500px 800px, 0 500px);
@@ -177,7 +177,7 @@ header {
 .portfolio {
   position: relative; }
   .portfolio .container {
-    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), #9C7523 url("/assets/img/bg-portfolio.jpg") no-repeat center;
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), #9C7523 url("../img/bg-portfolio.jpg") no-repeat center;
     background-size: cover;
     -webkit-clip-path: polygon(0 0, 1500px 300px, 1500px 900px, 0 600px);
     clip-path: polygon(0 0, 1500px 300px, 1500px 900px, 0 600px);
